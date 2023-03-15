@@ -1,0 +1,1 @@
+# rapid-qrcode-api
