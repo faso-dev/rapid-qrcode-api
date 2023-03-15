@@ -1,0 +1,16 @@
+.idea
+.vscode
+
+# System Files
+.DS_Store
+Thumbs.db
+
+# venv
+venv/
+
+# .env
+.env
+config/development.py
+
+# Cache
+__pycache__/
