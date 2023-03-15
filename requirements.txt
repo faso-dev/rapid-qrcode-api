@@ -1,0 +1,10 @@
+flask
+Flask-SQLAlchemy
+Flask-Migrate
+python-dotenv
+marshmallow-sqlalchemy
+marshmallow
+flask-marshmallow
+Flask-Cors
+SQLAlchemy
+pymysql
